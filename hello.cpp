@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<"Hello";
-    cout<<"hello world";
+    int a,b=20;
+    a=90/b;
+    cout<<a;
+    return 0;
 }
