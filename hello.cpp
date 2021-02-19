@@ -2,8 +2,10 @@
 using namespace std;
 int main()
 {
-    int a,b=20;
-    a=90/b;
-    cout<<a;
+    for(int i=0;i<10;)
+    {
+        cout<<i<<" ";
+        i++;
+    }
     return 0;
 }
